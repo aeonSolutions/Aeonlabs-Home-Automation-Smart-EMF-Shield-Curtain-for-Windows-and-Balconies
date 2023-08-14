@@ -18,9 +18,13 @@
 
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>   [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >>  [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home%20Automation%20Safety%20%26%20Health/readme.md)   >>  Smart EMF Shield Curtain for Windows and Balconies
 
-
 # Smart EMF Shield Curtain for Windows and Balconies
 
+## The problem
+nowadays many a sensitive to electromagnetic frequency radiation. Due to excessive exposure above natural and healthy limits. There are many solutions to mitigate exposture to this kind of radiation however none have the ability to collecect EMF energy values direclty from a window or access door to a balcony.
+
+## The idea
+This smart device is intended to be installed and fixed into a copper EMF shield on any window of balcony door. It has the main ability to collect EMF sensor data from the curtain itself and send it to a public data repository, for instance a dataverse (see www.dataverse.org)
 
 
 ## Compatibility
