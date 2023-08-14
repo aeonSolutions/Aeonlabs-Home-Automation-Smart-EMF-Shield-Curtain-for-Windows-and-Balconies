@@ -34,6 +34,24 @@ This smart device is intended to be installed and fixed into a copper EMF shield
 
 <br>
 
+The smart safety & health solution, is for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, wifi routers at home, and many more.
+
+**Is not able to detect wireless aggressions targeted to a person's body and individual. For instance, using some kind of beam-forming device or technologies**. For example, Laser and laser-like kind of devices and kind of technologies. 
+
+**When installing this smart solutions, take action and be conscient the aggression/aggressor may change to other types and kinds of "wireless devices" these smart devices below are unable to detect**.  
+
+**Always use this smart devices connected to a public data repository with LIVE data streams. While at the same time, notify the authorities immediately and provide the web address link where the public data repository can be found**. Data repositories based on Harvard's www.dataverse.org are currently the most suited (not ideal) for the smart solutions provided below. 
+
+**Be advised**
+
+
+Known open data repositories partially compatible with these smart devices:
+- www.dataverse.org [partial compatible] (open firmware provided here uses a dataverse repository API)
+- www.figshare.com [partial compatible]
+- www.datadryad.org [not compatible; no API]
+
+<br>
+
 ## Compatibility
 
 <p align="center">
