@@ -21,7 +21,7 @@
 # Smart EMF Shield Curtain for Windows and Balconies
 
 ## The problem
-nowadays many a sensitive to electromagnetic frequency radiation. Due to excessive exposure above natural and healthy limits. There are many solutions to mitigate exposture to this kind of radiation however none have the ability to collecect EMF energy values direclty from a window or access door to a balcony.
+nowadays many are sensitive to electromagnetic frequency radiation mainly due to excessive exposure above natural and healthy limits. There are many solutions to mitigate exposture to this kind of radiation however none have the ability to collecect EMF energy values direclty from a window or access door to a balcony.
 
 ## The idea
 This smart device is intended to be installed and fixed into a copper EMF shield on any window of balcony door. It has the main ability to collect EMF sensor data from the curtain itself and send it to a public data repository, for instance a dataverse (see www.dataverse.org)
