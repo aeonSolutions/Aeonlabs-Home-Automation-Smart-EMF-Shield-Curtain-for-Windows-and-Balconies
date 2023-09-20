@@ -24,7 +24,7 @@
 nowadays many are sensitive to electromagnetic frequency radiation mainly due to excessive exposure above natural and healthy limits. There are many solutions to mitigate exposture to this kind of radiation however none have the ability to collecect EMF energy values direclty from a window or access door to a balcony.
 
 ## The idea
-This smart device is intended to be installed and fixed into a copper EMF shield on any window of balcony door. It has the main ability to collect EMF sensor data from the curtain itself and send it to a public data repository, for instance a dataverse (see www.dataverse.org)
+This smart device is intended to be installed and fixed into a copper electromagnetic (EM) shield on any EM indoor window or balcony door. It has the main ability to collect EM sensor data from the curtain itself and send it to a public data repository, for instance a #dataverse (see www.dataverse.org)
 
 <p align="center">
   <a href="https://www.customtintsolutions.com/window-film-benefits/rf-blocking/" target="_blank">
