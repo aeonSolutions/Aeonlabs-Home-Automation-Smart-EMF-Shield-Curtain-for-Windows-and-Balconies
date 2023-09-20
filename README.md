@@ -27,10 +27,11 @@ nowadays many are sensitive to electromagnetic frequency radiation mainly due to
 This smart device is intended to be installed and fixed into a copper EMF shield on any window of balcony door. It has the main ability to collect EMF sensor data from the curtain itself and send it to a public data repository, for instance a dataverse (see www.dataverse.org)
 
 <p align="center">
-  <a href="https://s.click.aliexpress.com/e/_DC76f4j" target="_blank">
-     <img src="http://ae01.alicdn.com/kf/H7ce656812a1349839703e4e40070a3d1k.jpg_350x350.jpg" />
+  <a href="https://www.customtintsolutions.com/window-film-benefits/rf-blocking/" target="_blank">
+     <img height="300px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/emf-protection-window-film.jpg" />
   </a>
 </p>
+
 
 <br>
 
@@ -82,7 +83,13 @@ Known open data repositories partially compatible with these smart devices:
 
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md)
-- [Radiation Shield Curtain](https://s.click.aliexpress.com/e/_DC76f4j)
+- [Radiation Shield Curtain](https://s.click.aliexpress.com/e/_DC76f4j) or any other conducting material or glass window
+  <p align="center"> 
+ <a href="https://s.click.aliexpress.com/e/_DC76f4j" target="_blank">
+     <img height="200px" src="http://ae01.alicdn.com/kf/H7ce656812a1349839703e4e40070a3d1k.jpg_350x350.jpg" />
+  </a>
+</p>
+
 - [4.2V Lipo Battery](https://s.click.aliexpress.com/e/_Dl3iRpl)
   
 <br />
