@@ -41,7 +41,7 @@ The smart safety & health solution, is for the kind of wireless aggression that 
 
 **When installing this smart solution, take action and be conscient the aggression/aggressor may change to other types and kinds of "wireless devices" this smart device is unable to detect**.  
 
-**Always use this smart device connected to a public data repository with LIVE data streams. While at the same time, notify the authorities immediately and provide the web address link where the public data repository can be found**. Data repositories based on Harvard's www.dataverse.org are currently the most suited (not ideal) for the smart solutions provided. 
+**Always use this smart device connected to a public data repository with LIVE data streams. While at the same time, notify the authorities immediately and provide the web address link where the public data repository can be found**. Data repositories based on Harvard's www.dataverse.org are currently the most suited (not ideal) for the smart solution provided. 
 
 **Be advised**
 
