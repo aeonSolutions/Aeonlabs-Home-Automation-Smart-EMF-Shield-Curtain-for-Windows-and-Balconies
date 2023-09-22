@@ -83,7 +83,7 @@ Known open data repositories partially compatible with these smart devices:
 
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md)
-- [Radiation Shield Curtain](https://s.click.aliexpress.com/e/_DC76f4j) or any other conducting material or glass window
+- [Radiation Shield Curtain](https://s.click.aliexpress.com/e/_DC76f4j) or any other conducting material or conductive glass window
   <p align="center"> 
  <a href="https://s.click.aliexpress.com/e/_DC76f4j" target="_blank">
      <img height="200px" src="http://ae01.alicdn.com/kf/H7ce656812a1349839703e4e40070a3d1k.jpg_350x350.jpg" />
