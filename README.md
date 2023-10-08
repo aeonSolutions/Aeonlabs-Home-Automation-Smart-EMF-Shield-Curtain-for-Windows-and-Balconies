@@ -18,6 +18,13 @@
 
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>   [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >>  [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home%20Automation%20Safety%20%26%20Health/readme.md)   >>  Smart EMF Shield Curtain for Windows and Balconies
 
+<p align="right">
+    sponsored by <br>
+    <a href="https://be.eurocircuits.com/">
+       <img height="25" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/seedstudio_logo.png">
+    </a>
+</p>
+
 # Smart EMF Shield Curtain for Windows and Balconies
 
 ## The problem
