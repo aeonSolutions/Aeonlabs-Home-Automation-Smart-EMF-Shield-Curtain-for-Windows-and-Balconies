@@ -69,6 +69,10 @@ Known open data repositories partially compatible with these smart devices:
     <img height="200px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/pcb_front.png">
 </p>
 
+This device is designed to burnout everytime a electromagnetic pulse, spark or other EMF has a too high energy. this way the victim can use the burnt device as evidence when presenting a complaint to the authorities.
+
+staysafe.
+
 <br>
 
 ## Compatibility
