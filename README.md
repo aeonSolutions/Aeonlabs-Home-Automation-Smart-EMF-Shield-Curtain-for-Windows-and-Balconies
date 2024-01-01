@@ -99,14 +99,14 @@ staysafe.
 
 </p>
 
-[January 1, 2024] - The firmware 1.0.0 for Over the Air Updates is now released to the public. Goto the [releases](https://github.com/aeonSolutions/AeonLabs-Monitor-Fresh-Reinforced-concrete-Hardening-Strength-maturity/releases) section to learn more.  
+[January 1, 2024] - The firmware 1.0.0 for Over the Air Updates is now released to the public. Goto the [releases section](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/releases/tag/openFirmware to learn more.  
 
 <br>
 
 ## OEM Firmware code
 The OEM version of the firmware code can be found on the folder **OEM firmware code**.  It has by default OTA updates, meaning the smart concrete curing device automatically updates it self when newer updated versions made available here.  
 
-This code uses my own ESP32 c++ class libraries to expedite development of code of ESP32 microcontrollers. The repository is located in the [releases section](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/releases/tag/openFirmware).
+This code uses my own ESP32 c++ class libraries to expedite development of code of ESP32 microcontrollers. The repository is located in the [open source software section](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme).
 
 <br>
 
