@@ -106,7 +106,7 @@ staysafe.
 ## OEM Firmware code
 The OEM version of the firmware code can be found on the folder **OEM firmware code**.  It has by default OTA updates, meaning the smart concrete curing device automatically updates it self when newer updated versions made available here.  
 
-This code uses my own ESP32 c++ class libraries to expedite development of code of ESP32 microcontrollers. The repository is located [here](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) for anyone to use.
+This code uses my own ESP32 c++ class libraries to expedite development of code of ESP32 microcontrollers. The repository is located in the [releases section](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/releases/tag/openFirmware).
 
 <br>
 
@@ -149,13 +149,11 @@ You can get in touch with me on my LinkedIn Profile:
 
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/aeonSolutions)
 
-**Hire me**
+<br>
 
-If you like my work here and are looking to design and deploy your own smart device you can hire me on:
+**Hire me** <br>
+See [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire AeonLabs.
 
-- [Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25
-- [Guru](https://www.guru.com/freelancers/miguel-tomas)
-- 
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
