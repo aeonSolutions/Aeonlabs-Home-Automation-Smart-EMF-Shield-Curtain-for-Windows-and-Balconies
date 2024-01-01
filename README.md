@@ -99,7 +99,7 @@ staysafe.
 
 </p>
 
-[January 1, 2024] - The firmware 1.0.0 for Over the Air Updates is now released to the public. Goto the [releases section](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/releases/tag/openFirmware to learn more.  
+[January 1, 2024] - The firmware 1.0.0 for Over the Air Updates is now released to the public. Goto the [releases section](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/releases/tag/openFirmware) to learn more.  
 
 <br>
 
