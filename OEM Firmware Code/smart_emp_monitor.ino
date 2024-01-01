@@ -310,9 +310,9 @@ void setup() {
   interface-> SERIAL_DEFAULT_SPEED = 115200;
 
 // _____________________ TELEGRAM _____________________________
-  telegram->OWNER_CHAT_ID = "1435561519";
+  telegram->OWNER_CHAT_ID = "xxxxxxxxxxxx";
   // Initialize Telegram BOT
-  telegram->BOTtoken = "5915032718:AAEmWEIus5sCb0_sh4cM8hN899y-2bG-kh0";  // your Bot Token (Get from Botfather)
+  telegram->BOTtoken = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";  // your Bot Token (Get from Botfather)
 
   // ......................................................................................................
   // .......................... END OF IO & PIN CONFIGURATION..............................................
