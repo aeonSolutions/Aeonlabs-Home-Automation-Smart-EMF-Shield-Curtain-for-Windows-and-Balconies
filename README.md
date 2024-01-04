@@ -27,6 +27,13 @@
 
 # Smart EMF Shield Curtain for Windows and Balconies
 
+<p align="left"> 
+ <img height="15" src="https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png"> 
+<b>Status:</b>
+ Hardware electronics are Fully tested and working. First 🥇 release of the firmware code is now available. <br>
+&nbsp; Looking for someone available to collaborate on the firmware coding. If you like this project and want faster development, prototyping and testing consider a donation or sponsoring. thank you 🙏.
+ </p>
+  
 ## The problem
 nowadays many are sensitive to electromagnetic frequency radiation mainly due to excessive exposure above natural and healthy limits. There are many solutions to mitigate exposture to this kind of radiation however none have the ability to collecect EMF energy values direclty from a window or access door to a balcony.
 
@@ -38,7 +45,6 @@ This smart device is intended to be installed and fixed into a copper electromag
      <img height="300px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/emf-protection-window-film.jpg" />
   </a>
 </p>
-
 
 <br>
 
@@ -92,7 +98,7 @@ staysafe.
 
 
 ### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png) Status
-  Fully working.
+  Hardware electronics are Fully tested and working. First 🥇 release of the firware code is now available.
   
   <p align="center">
 <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/testing_phase_alpha.jpg" height="300">
