@@ -30,15 +30,21 @@
 <p align="left"> 
  <img height="15" src="https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png"> 
 <b>Status:</b>
- Hardware electronics are Fully tested and working. First 🥇 release of the firmware code is now available. <br>
-&nbsp; Looking for someone available to collaborate on the firmware coding. If you like this project and want faster development, prototyping and testing consider a donation or sponsoring. thank you 🙏.
+ Hardware electronics are Fully tested and working. The first 🥇 release of the firmware code is now available. <br>
+&nbsp; Looking for someone available to collaborate on the firmware coding. If you like this project and want faster development, prototyping, and testing consider a donation or sponsoring. thank you 🙏.
  </p>
-  
+
+<p align="center">  
+   <a href="https://www.hackster.io/mtpsilva">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/hackster_io.png" height="50">
+   </a>
+</p>
+
 ## The problem
-nowadays many are sensitive to electromagnetic frequency radiation mainly due to excessive exposure above natural and healthy limits. There are many solutions to mitigate exposture to this kind of radiation however none have the ability to collecect EMF energy values direclty from a window or access door to a balcony.
+nowadays many are sensitive to electromagnetic frequency radiation mainly due to excessive exposure above natural and healthy limits. There are many solutions to mitigate exposure to this kind of radiation however none have the ability to collect EMF energy values directly from a window or access door to a balcony.
 
 ## The idea
-This smart device is intended to be installed and fixed into a copper electromagnetic (EM) shield on any EM indoor window or balcony door. It has the main ability to collect EM sensor data from the curtain itself and send it to a public data repository, for instance a #dataverse (see www.dataverse.org)
+This smart device is intended to be installed and fixed into a copper electromagnetic (EM) shield on any EM indoor window or balcony door. It has the main ability to collect EM sensor data from the curtain itself and send it to a public data repository, for instance, a #dataverse (see www.dataverse.org)
 
 <p align="center">
   <a href="https://www.customtintsolutions.com/window-film-benefits/rf-blocking/" target="_blank">
@@ -48,13 +54,13 @@ This smart device is intended to be installed and fixed into a copper electromag
 
 <br>
 
-The smart safety & health solution, is for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, wifi routers at home, and many more.
+The smart safety & health solution is for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, wifi routers at home, and many more.
 
 **This smart device is not able to detect wireless aggressions targeted to a person's body and individual. For instance, using some kind of beam-forming device or technologies**. For example, Laser and laser-like kind of devices and kind of technologies. 
 
-**When installing this smart solution, take action and be conscient the aggression/aggressor may change to other types and kinds of "wireless devices" this smart device is unable to detect**.  
+**When installing this smart solution, take action and be conscious that the aggression/aggressor may change to other types and kinds of "wireless devices" this smart device is unable to detect**.  
 
-**Always use this smart device connected to a public data repository with LIVE data streams. While at the same time, notify the authorities immediately and provide the web address link where the public data repository can be found**. Data repositories based on Harvard's www.dataverse.org are currently the most suited (not ideal) for the smart solution provided. 
+**Always use this smart device connected to a public data repository with LIVE data streams. At the same time, notify the authorities immediately and provide the web address link where the public data repository can be found**. Data repositories based on Harvard's www.dataverse.org are currently the most suited (not ideal) for the smart solution provided. 
 
 **Be advised**
 
@@ -70,9 +76,9 @@ Known open data repositories partially compatible with these smart devices:
     <img height="200px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/pcb_front.png">
 </p>
 
-This device is designed to burnout everytime a electromagnetic pulse, spark or other EMF has a too high energy. This way the victim can use the burnt device as evidence when presenting a complaint to the authorities.
+This device is designed to burn out every time an electromagnetic pulse, spark or other EMF has a too-high energy. This way the victim can use the burnt device as evidence when presenting a complaint to the authorities.
 
-staysafe.
+stay safe.
 
 <br>
 
@@ -98,7 +104,7 @@ staysafe.
 
 
 ### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png) Status
-  Hardware electronics are Fully tested and working. First 🥇 release of the firware code is now available.
+  Hardware electronics are Fully tested and working. The first 🥇 release of the firmware code is now available.
   
   <p align="center">
 <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/testing_phase_alpha.jpg" height="300">
@@ -110,9 +116,9 @@ staysafe.
 <br>
 
 ## OEM Firmware code
-The OEM version of the firmware code can be found on the folder **OEM firmware code**.  It has by default OTA updates, meaning the smart concrete curing device automatically updates it self when newer updated versions made available here.  
+The OEM version of the firmware code can be found in the folder **OEM firmware code**.  It has by default OTA updates, meaning the smart concrete curing device automatically updates it self when newer updated versions are made available here.  
 
-This code uses my own ESP32 c++ class libraries to expedite development of code of ESP32 microcontrollers. The repository is located in the [open source software section](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme).
+This code uses my own ESP32 C++ class libraries to expedite the development of the code of ESP32 microcontrollers. The repository is located in the [open source software section](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme).
 
 <br>
 
@@ -163,7 +169,7 @@ See [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-t
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-The PCB design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza, or a book to help me study, eat, and think new PCB design files.
 
 <p align="center">
     <a href="https://www.buymeacoffee.com/migueltomas">
@@ -182,7 +188,7 @@ Make a donation on PayPal and get a TAX refund*.
 </p>
 
 ### Support all these open hardware projects and become a GitHub sponsor  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
+Did you like any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
