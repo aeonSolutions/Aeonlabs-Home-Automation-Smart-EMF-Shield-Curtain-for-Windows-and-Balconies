@@ -20,7 +20,7 @@
 
 
 <p align="right">
- <a href="https://github-com.translate.goog/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
+ <a href="https://github-com.translate.goog/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
 Last update 04-05-2024 <br> <br>
 partially sponsored by <br> 
     <a href="https://www.seeedstudio.com/fusion.html">
@@ -38,7 +38,7 @@ partially sponsored by <br>
  </p>
 
 <p align="center">  
-   <a href="https://www.hackster.io/mtpsilva">
+   <a href="https://www.hackster.io/mtpsilva/an-open-smart-device-for-emf-emp-monitoring-in-a-window-5b020f">
       <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/hackster_io.png" height="50">
    </a>
 </p>
@@ -89,7 +89,9 @@ This device is designed to burn out every time an electromagnetic pulse, spark, 
 
 stay safe.
 
-<br>
+<p align=c"enter">
+   <img height="300px" src="">
+</p>
 
 ## Compatibility
 
