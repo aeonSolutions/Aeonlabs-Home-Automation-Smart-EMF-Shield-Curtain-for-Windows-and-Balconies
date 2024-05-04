@@ -12,7 +12,7 @@ partially sponsored by <br>
 
 <br>
 
-This folder contains the KiCad Project files, for the hardware electronics of the OPEN ECU.  Each KiCad project is available with a [creative commons share alike non-commercial license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). 
+This folder contains the KiCad Project files, for the hardware electronics of the Smart EMF Shield Curtain for Windows and Balconies.  Each KiCad project is available with a [creative commons share alike non-commercial license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). 
 
 <p align="center">
 <strong> <a href="https://aeonsolutions.github.io/sponsor/em_radiation/">Interactive view of the PCB Layout</a> </strong> &nbsp;
