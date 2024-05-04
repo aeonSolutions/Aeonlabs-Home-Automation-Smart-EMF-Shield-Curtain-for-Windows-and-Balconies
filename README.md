@@ -51,8 +51,8 @@ This smart device is intended to be installed and fixed into a copper electromag
 
 <p align="center">
   <a href="https://www.customtintsolutions.com/window-film-benefits/rf-blocking/" target="_blank">
-     <img height="300px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/emf-protection-window-film.jpg" />
-  </a>
+     <img height="300px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/emf-protection-window-film.jpg" /> </a> <br>
+   <sup> Figure 1- Example of a window in a room where this Smart Device can be installed</sup>
 </p>
 
 <br>
@@ -76,7 +76,8 @@ Known open data repositories partially compatible with these smart devices:
 <br>
 
 <p align="center">
-    <img height="200px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/pcb_front.png">
+    <img height="200px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/pcb_front.png"> <br>
+ <sup> Figure 2 - 3D rendering in KiCad of the hardware electronics </sup>
 </p>
 
 <p align="center">
@@ -89,8 +90,9 @@ This device is designed to burn out every time an electromagnetic pulse, spark, 
 
 stay safe.
 
-<p align=c"enter">
-   <img height="300px" src="">
+<p align="center">
+   <img height="300px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/smart_epm_18650_photo_4.jpg"> <br>
+ <sup> Figure 3 - Smart EM Device Already Assemble and ready to be installed on the Aluminium Enclosure</sup>
 </p>
 
 ## Compatibility
