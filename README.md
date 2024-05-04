@@ -18,8 +18,11 @@
 
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>   [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >>  [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home%20Automation%20Safety%20%26%20Health/readme.md)   >>  Smart EMF Shield Curtain for Windows and Balconies
 
+
 <p align="right">
-   partially sponsored by <br>
+ <a href="https://github-com.translate.goog/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
+Last update 04-05-2024 <br> <br>
+partially sponsored by <br> 
     <a href="https://www.seeedstudio.com/fusion.html">
        <img height="25" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/seedstudio_logo.png">
     </a>
@@ -76,7 +79,13 @@ Known open data repositories partially compatible with these smart devices:
     <img height="200px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/pcb_front.png">
 </p>
 
-This device is designed to burn out every time an electromagnetic pulse, spark or other EMF has a too-high energy. This way the victim can use the burnt device as evidence when presenting a complaint to the authorities.
+<p align="center">
+<strong> <a href="https://aeonsolutions.github.io/sponsor/em_radiation/">Interactive view of the PCB Layout</a> </strong> &nbsp;
+  <strong> <a href="https://aeonsolutions.github.io/sponsor/em_radiation//circuit_schematic.html">Interactive view of the circuit schematic</a> </strong> <br>
+ <sup>Click to view the latest revision</sup>
+</p>
+
+This device is designed to burn out every time an electromagnetic pulse, spark, or other EMF has a too-high energy. This way the victim can use the burnt device as evidence when presenting a complaint to the authorities.
 
 stay safe.
 
