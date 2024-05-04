@@ -1,5 +1,5 @@
 
-[Main Page](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki)  >>  KiCad project files for the OPEN ECU
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>   [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >>  [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home%20Automation%20Safety%20%26%20Health/readme.md)   >>  Smart EMF Shield Curtain for Windows and Balconies
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
@@ -15,8 +15,9 @@ partially sponsored by <br>
 This folder contains the KiCad Project files, for the hardware electronics of the OPEN ECU.  Each KiCad project is available with a [creative commons share alike non-commercial license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). 
 
 <p align="center">
-  <strong> <a href="https://aeonsolutions.github.io/portfolio/hardware_electronics/automotive/">Interactive web view of the PCB Layout</a> </strong> <br>
- <sup>Click to view the latest revision of the PCB Layout</sup>
+<strong> <a href="https://aeonsolutions.github.io/sponsor/em_radiation/">Interactive view of the PCB Layout</a> </strong> &nbsp;
+  <strong> <a href="https://aeonsolutions.github.io/sponsor/em_radiation//circuit_schematic.html">Interactive view of the circuit schematic</a> </strong> <br>
+ <sup>Click to view the latest revision</sup>
 </p>
 
 However, they're not fully complete. If you like it and are looking to use it on your projects, you can download the complete Kicad project files with a one-time donation, [click here](https://github.com/sponsors/aeonSolutions) to learn how,  and don't forget to include it in a message the name of the module/hardware electronics you need. <br> Thank you 🙏.
