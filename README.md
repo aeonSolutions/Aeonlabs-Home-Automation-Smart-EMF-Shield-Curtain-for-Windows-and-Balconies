@@ -27,6 +27,8 @@ partially sponsored by <br>
     </a>
 </p>
 
+⚠️ **Start by reading the documentation first**. [Click here to open it](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki) 
+
 # Smart EMF Shield Curtain for Windows and Balconies
 
 <p align="left"> 
