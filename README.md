@@ -15,7 +15,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
 
-[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>   [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >>  [Safety & Health](https://github.com/aeonSolutions/AeonLabs-Safety-Health)     >>  Smart EMF Shield Curtain for Windows and Balconies
+**Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >>  [Open Hardware Electronics](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)   >>   [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >>  [Safety & Health](https://github.com/aeonSolutions/AeonLabs-Safety-Health)     >>  Smart EMF Shield Curtain for Windows and Balconies
 
 
 <p align="right">
