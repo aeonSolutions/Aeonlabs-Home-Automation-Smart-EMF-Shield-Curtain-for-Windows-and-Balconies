@@ -134,6 +134,19 @@ The OEM version of the firmware code can be found in the folder **OEM firmware c
 
 This code uses my own ESP32 C++ class libraries to expedite the development of the code of ESP32 microcontrollers. The repository is located in the [open source software section](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme).
 
+#### Send the collected sensor data to this repository
+On this repository, there's a special folder, named [datasets](https://github.com/aeonSolutions/AeonLabs-Safety-Health/tree/main/Measurements/datasets), where anyone is able to upload dataset files directly from their open smart devices. This folder is intended to facilitate sharing of "electromagnetic" measurements among anyone with interest and capable of studying and analyzing it in search of EM anomalies to improve detection of the open hardware electronics made available here. **Anyone is invited to participate, cost-free**. 
+
+&nbsp;&nbsp; To assist you with the firmware programming, there's a C++ test code compatible with all Arduino devices that anyone can use to speed up the programming of the open smart device. Here's the link: <br>
+https://github.com/aeonSolutions/Aeonlabs-Arduino_Hardware_Test_Code/tree/main/github_api_test_upload <br>
+Any questions on how to do it, send me a message on the Discord Server:
+
+<div align="center">
+
+[![](https://dcbadge.vercel.app/api/server/hw3j3RwfJf) ](https://discord.gg/hw3j3RwfJf)
+
+</div>
+
 <br>
 
 ## What one additionally needs
