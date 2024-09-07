@@ -61,7 +61,8 @@ This smart device is intended to be installed and fixed into a copper electromag
 The total cost of this project to date is listed below:
 - Work hours dedicated to this project: >300 w.h <br>
   This includes research and study about Bio EM RF, building this repository, and other useless miscellaneous online tasks. <br>
-  hardware electronics assembly and testing, several times. 
+  hardware electronics assembly and testing, several times.
+- Electronic components  >200 eur
 - Aluminium Enclosure Case and other materials ~20 eur ( [buy one on AliExpress ](https://s.click.aliexpress.com/e/_DkqC3wL) )
 
 <br>
