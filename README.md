@@ -56,8 +56,17 @@ This smart device is intended to be installed and fixed into a copper electromag
    <sup> Figure 1- Example of a window in a room where this Smart Device can be installed</sup>
 </p>
 
+
+## Total Cost of this Project
+The total cost of this project to date is listed below:
+- Work hours dedicated to this project: >300 w.h <br>
+  This includes research and study about Bio EM RF, building this repository, and other useless miscellaneous online tasks. <br>
+  hardware electronics assembly and testing, several times. 
+- ABS Enclosures ~30 eur ( [buy one on AliExpress ](https://s.click.aliexpress.com/e/_DCsIVkJ) )
+
 <br>
 
+## Important Information
 The smart safety & health solution is for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, wifi routers at home, and many more.
 
 **This smart device is not able to detect wireless aggressions targeted to a person's body and individual. For instance, using some kind of beam-forming device or technologies**. For example, Laser and laser-like kind of devices and kind of technologies. 
