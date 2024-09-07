@@ -99,7 +99,7 @@ Known open data repositories partially compatible with these smart devices:
 <br>
 
 <p align="center">
-    <img height="200px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/pcb_front.png"> <br>
+    <img height="200px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/pcb_front.jpg"> <br>
  <sup> Figure 2 - 3D rendering in KiCad of the hardware electronics </sup>
 </p>
 
